@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.footer{
+  position: relative;
+  padding: 10px;
+  margin-top: 5px;
+  min-height: 300px;
+}
+
+.text-white{
+  color: white;
+}
+
+.highlight {
+  background-color: #f7e7ce;
+  /* color: #644117; */
+}
+
+.main-content {
+  background-color: #fffbf5;
+  min-height: 500px;
+}
+
+
+/* 
+there needs to be a set of color coded class tags that can go into any component
+
+primary bg color and text color
+highlight bg and text color
+main content bg and color
+*/
